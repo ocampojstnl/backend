@@ -5,6 +5,7 @@ Backend
 </h2>
 <h4>composer install</h4>
 <h4>php artisan migrate --seed</h4>
+<h4>configure the mailtrap data on .env file</h4>
 <h4>Credentials may found on userstableseeder file</h4>
 
 
